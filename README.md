@@ -3,8 +3,13 @@
 # Puest 😃 
 </div>
 
+### Introduction
 Hello! 👋 I'm ByeongYeon. Currently, I am a student at Honam University, pursuing my major while growing as a __junior backend developer__. I carry a constant passion for software development and maintain a persistent commitment to learning. Exploring new technologies and tools, I strive to enhance my development skills gradually. My goal is to evolve into a __better software engineer__ through collaboration and valuable experiences. 🌱✨  
+### Profile
+Name: 양병연(ByeongYeon Yang)  
+Mail: poulet3794@gmail.com  
 
+ ---
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
